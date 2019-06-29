@@ -15,7 +15,6 @@ public class Sk_TestGoogle
 		int statusCode = res.getStatusCode();
 		Assert.assertEquals(200,statusCode);
 	}
-	
 	@Test
 	public  void TestGoogle()
 	{
